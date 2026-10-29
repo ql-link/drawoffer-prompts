@@ -82,6 +82,10 @@ AI 会先给一句总体判断，再列出三到五条按影响排序的发现�
 /plugin install drawoffer@drawoffer-skills
 ```
 
+## 需要简历模板？
+
+[chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates) 收录了 57 套免费中文简历模板，覆盖校招、实习、社招，每套都有预览图和示例数据。
+
 ## 想要完整的产品体验？
 
 这些提示词只负责"怎么写"。[DrawOffer 职绘](https://www.drawoffer.com) 在此基础上提供：
