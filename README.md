@@ -88,7 +88,7 @@ AI 会先给一句总体判断，再列出三到五条按影响排序的发现�
 
 ## 不想每次复制粘贴简历？
 
-[drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)（即将上线）让 Claude、Cursor 等 AI 工具直接读取你在 DrawOffer 里的简历和岗位，提示词里引用简历时不用再手动粘贴。
+[drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)让 Claude、Cursor 等 AI 工具直接读取你在 DrawOffer 里的简历和岗位，提示词里引用简历时不用再手动粘贴。
 
 ## 想要完整的产品体验？
 
