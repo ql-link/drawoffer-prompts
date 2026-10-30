@@ -84,7 +84,7 @@ AI 会先给一句总体判断，再列出三到五条按影响排序的发现�
 
 ## 需要简历模板？
 
-[chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates) 收录了 57 套免费中文简历模板，覆盖校招、实习、社招，每套都有预览图和示例数据。
+[drawoffer-chinese-resume-templates](https://github.com/ql-link/drawoffer-chinese-resume-templates) 收录了 57 套免费中文简历模板，覆盖校招、实习、社招，每套都有预览图和示例数据。
 
 ## 不想每次复制粘贴简历？
 
