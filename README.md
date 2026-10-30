@@ -86,6 +86,10 @@ AI 会先给一句总体判断，再列出三到五条按影响排序的发现�
 
 [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates) 收录了 57 套免费中文简历模板，覆盖校招、实习、社招，每套都有预览图和示例数据。
 
+## 不想每次复制粘贴简历？
+
+[drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)（即将上线）让 Claude、Cursor 等 AI 工具直接读取你在 DrawOffer 里的简历和岗位，提示词里引用简历时不用再手动粘贴。
+
 ## 想要完整的产品体验？
 
 这些提示词只负责"怎么写"。[DrawOffer 职绘](https://www.drawoffer.com) 在此基础上提供：
